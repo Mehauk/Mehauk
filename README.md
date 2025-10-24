@@ -1,2 +1,2 @@
 # Hi, I’m Noor
-I am a Software Engineer, specializing mobile applications
+I am a Software Engineer, specialized in mobile applications
